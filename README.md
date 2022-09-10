@@ -8,14 +8,16 @@ Run the .class file from the command line, and then enter your first number, you
 Watch as calculator does its magic!
 
 <h2>Technologies Used</h2>
+
 - Java
 
 <h2>Platforms</h2>
 Anywhere that you can run Java (Windows, macOS, Linux, the Mars rovers...)
 
-<p align="center">
 <h2>Screenshots</h2>
-The app running as expected
+
+<p align="center">
+On Ubuntu Linux with a non-malicious file:<br>
 <img src="https://imgur.com/a/zZ29FBf.png" height="80%" width="80%" alt="Program Walkthrough"/>
 <br />
 <br />
