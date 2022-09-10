@@ -16,8 +16,10 @@ Anywhere that you can run Java (Windows, macOS, Linux, the Mars rovers...)
 
 <h2>Screenshots</h2>
 
-<p align="center">
-On Ubuntu Linux with a non-malicious file:<br>
-<img src="https://imgur.com/a/zZ29FBf.png" height="80%" width="80%" alt="Program Walkthrough"/>
-<br />
-<br />
+Working as expected:
+  
+![java1](https://user-images.githubusercontent.com/50299748/189473688-ff729c8f-15d3-4964-8405-be88d60f2c6e.PNG)
+
+Error handling:
+
+![java2](https://user-images.githubusercontent.com/50299748/189473766-31441cc0-7c96-495a-8be1-9ec38aeca74a.PNG)
