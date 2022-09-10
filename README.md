@@ -1,11 +1,11 @@
 <h1>cliCalculator</h1>
 
 <h2>Description</h2>
-Ever needed to do math on 2 numbers in the command line? If yes, this is exactly what you need!
+Ever needed to do math on 2 numbers in the command line? If yes, this is exactly what you need! This program is written using the object-oriented paradigm.
 
 <h2>How to Use</h2>
-Download the src folder, run the .class file from the command line (java Main.class), and then enter your first number, your operator, and your second number.
-Watch as calculator does its magic!
+Download the src folder, compile the code, run the .class file from the command line (java Main.class), and then enter your first number, your operator, and your second number.
+Watch as the calculator does its magic!
 
 <h2>Technologies Used</h2>
 
