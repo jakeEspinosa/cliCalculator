@@ -4,7 +4,7 @@
 Ever needed to do math on 2 numbers in the command line? If yes, this is exactly what you need!
 
 <h2>How to Use</h2>
-Run the .class file from the command line (java Main.class), and then enter your first number, your operator, and your second number.
+Download the src folder, run the .class file from the command line (java Main.class), and then enter your first number, your operator, and your second number.
 Watch as calculator does its magic!
 
 <h2>Technologies Used</h2>
